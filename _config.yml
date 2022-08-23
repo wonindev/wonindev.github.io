@@ -19,7 +19,7 @@ texture:
   title: SangWon Park
   tagline: Developer
   date_format: "%Y %b %-d"
-  style: red
+  style: black
   showNav: true
   showPicker: false
 
