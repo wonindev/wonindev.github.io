@@ -1,5 +1,5 @@
-title: Texture Theme
-author: GitHub User
+title: Wone
+author: SangWon Park
 email: sangwonparkdev@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
@@ -19,9 +19,9 @@ texture:
   title: SangWon Park
   tagline: Developer
   date_format: "%Y %b %-d"
-  style: black
-  showNav: false
-  showPicker: true
+  style: red
+  showNav: true
+  showPicker: false
 
   # generate social links in footer
   social_links:
